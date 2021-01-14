@@ -1,1 +1,1 @@
-## Add these files to <Xilinx Install Directory>/Vivado/<Version>/data/boards/board_files/zybo-z7-10/A.0/
+## Add these files to $Xilinx Install Directory$/Vivado/$Version$/data/boards/board_files/zybo-z7-10/A.0/
