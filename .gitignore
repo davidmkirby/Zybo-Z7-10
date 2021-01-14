@@ -1,0 +1,50 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+*.icloud
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+FE Exam
+
+# LaTeX
+*.synctex.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pyg
+*.pygstyle
+*.pygtex
+__latexindent_temp*
+_minted*
+
+# Audio/Video/subtitle files ignored due to resource contraints
+*.mp4
+*.m4a
+*.m4v
+*.sbv
+
+Textbook*
+confidential*
